@@ -2,6 +2,10 @@
 
 SJ-Donald/SJ-SOLAR-10.7b-DPO is fine-tuned using DPO method.
 
+## HuggingFace
+
+* [SJ-Donald/SJ-SOLAR-10.7b-DPO](https://huggingface.co/SJ-Donald/SJ-SOLAR-10.7b-DPO)
+
 ## Environment
 
 Using **Google CoLab A100**
