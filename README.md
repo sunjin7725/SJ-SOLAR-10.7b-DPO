@@ -18,6 +18,15 @@ Using **Google CoLab A100**
 
 * [SJ-Donald/orca-dpo-pairs-ko](https://huggingface.co/datasets/SJ-Donald/orca-dpo-pairs-ko)
 
+## Benchmark
+
+### Open-LLM-Leaderboard(https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+
+| Average |   ARC  |   HellaSwag  |   MMLU  |  TruthfulQA  | Winogrande |  GSM8K  |
+| ------: | -----: | -----------: | ------: | -----------: | ---------: | ------: | 
+|   72.67 |  68.26 |        86.95 |   66.73 |        67.74 |      84.21 |   62.03 |
+
+
 ## How to use
 
 ```Python
